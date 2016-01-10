@@ -1,0 +1,12 @@
+title: Super dope freshness
+email: me@awesome.me
+
+description: This website is super cool, because reasons.
+
+baseurl: ""
+url: "https://dopeshit.io"
+
+twitter_username: NetOpWibby
+github_username:  NetOperatorWibby
+
+markdown: rdiscount
